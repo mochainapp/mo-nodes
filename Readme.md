@@ -4,7 +4,7 @@
 
 2. Copy source form node-example to root folder
 ```
-cp -r /node-example/MO  /root/
+cp -r /mo-nodes/MO  /root/
 ```
 3. Create an Account
 
