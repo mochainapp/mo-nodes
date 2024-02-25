@@ -1,6 +1,6 @@
 # Run a MO Validator
 ## Setting up a node
-1. Git clone https://github.com/mochainapp2/CoinNetwork.git
+1. Git clone https://github.com/mochainapp/mo-nodes.git
 
 2. Copy source form node-example to root folder
 ```
